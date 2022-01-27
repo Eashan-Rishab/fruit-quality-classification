@@ -1,3 +1,4 @@
+*.hdf5
 *.h5
 __pycache__/
 **/*.ipynb_checkpoints/
@@ -9,3 +10,4 @@ __pycache__/
 dataset/
 *.txt
 darknet/
+logs/
